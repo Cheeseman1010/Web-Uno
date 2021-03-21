@@ -66,6 +66,23 @@ body {
   color: #B84901;
 }
 
+.footer {
+    margin-top: 25px;
+    position: relative;
+    bottom: 10px;
+    justify-content: center;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+    font-size:small;
+    color: #838E83;
+    height: 50px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+
 .red {
   background: #c51919 !important;
   color: #ececec;
